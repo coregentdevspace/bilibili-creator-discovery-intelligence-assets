@@ -1,0 +1,1497 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "202232",
+    "creatorUrl": "https://space.bilibili.com/202232",
+    "creatorName": "虚无海鸥",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 75,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 100,
+      "recency": 97.7,
+      "observedPerformance": 59.6
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 5,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 14949,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 12361,
+      "level": 6,
+      "officialVerified": false,
+      "officialTitle": null,
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117652542458961",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117652542458961",
+        "title": "还有高手？至冬音乐还在C！原神7.0神曲TOP11-20盘点",
+        "publishedAt": "2026-11-21T04:30:28.000Z",
+        "durationSec": 1778,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 14949,
+        "danmakuCount": 450,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117652542458961",
+    "topEvidenceVideoTitle": "还有高手？至冬音乐还在C！原神7.0神曲TOP11-20盘点",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117652542458961",
+    "followerCount": 12361,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 100,
+    "scoreRecency": 97.7,
+    "scoreObservedPerformance": 59.6,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "23673546",
+    "creatorUrl": "https://space.bilibili.com/23673546",
+    "creatorName": "你的夏木繁",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 75,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 100,
+      "recency": 99.4,
+      "observedPerformance": 55.2
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 5,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 7258,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 11491,
+      "level": 5,
+      "officialVerified": false,
+      "officialTitle": null,
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117660981397035",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117660981397035",
+        "title": "【原神】11月第4周丨下半卡池和纳塔混池要来了❗️",
+        "publishedAt": "2026-11-22T16:16:01.000Z",
+        "durationSec": 140,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 7258,
+        "danmakuCount": 2,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117660981397035",
+    "topEvidenceVideoTitle": "【原神】11月第4周丨下半卡池和纳塔混池要来了❗️",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117660981397035",
+    "followerCount": 11491,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 100,
+    "scoreRecency": 99.4,
+    "scoreObservedPerformance": 55.2,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "36187622",
+    "creatorUrl": "https://space.bilibili.com/36187622",
+    "creatorName": "旅行者07号",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 75,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 100,
+      "recency": 95.5,
+      "observedPerformance": 61.7
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 5,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 20739,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 32630,
+      "level": 6,
+      "officialVerified": false,
+      "officialTitle": null,
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117640764852934",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117640764852934",
+        "title": "【原神】7.2四星角色使用率排行，哪些4星值得培养？",
+        "publishedAt": "2026-11-19T02:38:16.000Z",
+        "durationSec": 95,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 20739,
+        "danmakuCount": 57,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117640764852934",
+    "topEvidenceVideoTitle": "【原神】7.2四星角色使用率排行，哪些4星值得培养？",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117640764852934",
+    "followerCount": 32630,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 100,
+    "scoreRecency": 95.5,
+    "scoreObservedPerformance": 61.7,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "32500783",
+    "creatorUrl": "https://space.bilibili.com/32500783",
+    "creatorName": "什么都想发视频的up主",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 74,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 100,
+      "recency": 89.4,
+      "observedPerformance": 63.1
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 5,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 26058,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 198080,
+      "level": 6,
+      "officialVerified": true,
+      "officialTitle": "优质游戏鉴赏家",
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117606891724348",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117606891724348",
+        "title": "【原神】达达利亚:愚...鱼人众？",
+        "publishedAt": "2026-11-13T03:00:34.000Z",
+        "durationSec": 140,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 26058,
+        "danmakuCount": 38,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117606891724348",
+    "topEvidenceVideoTitle": "【原神】达达利亚:愚...鱼人众？",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117606891724348",
+    "followerCount": 198080,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 100,
+    "scoreRecency": 89.4,
+    "scoreObservedPerformance": 63.1,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "8352634",
+    "creatorUrl": "https://space.bilibili.com/8352634",
+    "creatorName": "米酒Yahalo",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 66,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 60,
+      "recency": 95.7,
+      "observedPerformance": 67.3
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 3,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 51566,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 28731,
+      "level": 6,
+      "officialVerified": false,
+      "officialTitle": null,
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117641989589832",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117641989589832",
+        "title": "【原神】恭迎米天帝严格1金冷启动22.2wDPS，低金全赛道登顶（7.2版本）",
+        "publishedAt": "2026-11-19T07:49:04.000Z",
+        "durationSec": 150,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 51566,
+        "danmakuCount": 52,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117641989589832",
+    "topEvidenceVideoTitle": "【原神】恭迎米天帝严格1金冷启动22.2wDPS，低金全赛道登顶（7.2版本）",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117641989589832",
+    "followerCount": 28731,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 60,
+    "scoreRecency": 95.7,
+    "scoreObservedPerformance": 67.3,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "28602593",
+    "creatorUrl": "https://space.bilibili.com/28602593",
+    "creatorName": "小辞炒糍粑",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 66,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 60,
+      "recency": 98.9,
+      "observedPerformance": 62.1
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 3,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 22309,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 333790,
+      "level": 6,
+      "officialVerified": false,
+      "officialTitle": null,
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117658364156541",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117658364156541",
+        "title": "老玩家回坑原神成萌新了''这些角色都是谁啊?!''",
+        "publishedAt": "2026-11-22T05:11:44.000Z",
+        "durationSec": 260,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 22309,
+        "danmakuCount": 32,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117658364156541",
+    "topEvidenceVideoTitle": "老玩家回坑原神成萌新了''这些角色都是谁啊?!''",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117658364156541",
+    "followerCount": 333790,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 60,
+    "scoreRecency": 98.9,
+    "scoreObservedPerformance": 62.1,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "348749915",
+    "creatorUrl": "https://space.bilibili.com/348749915",
+    "creatorName": "原神情报处",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 66,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 60,
+      "recency": 95.9,
+      "observedPerformance": 66.6
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 3,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 45691,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 277568,
+      "level": 6,
+      "officialVerified": false,
+      "officialTitle": null,
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117642929112745",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117642929112745",
+        "title": "原神7.2下半卡池四星陪跑角色评价！",
+        "publishedAt": "2026-11-19T11:49:17.000Z",
+        "durationSec": 60,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 45691,
+        "danmakuCount": 8,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117642929112745",
+    "topEvidenceVideoTitle": "原神7.2下半卡池四星陪跑角色评价！",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117642929112745",
+    "followerCount": 277568,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 60,
+    "scoreRecency": 95.9,
+    "scoreObservedPerformance": 66.6,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "519310475",
+    "creatorUrl": "https://space.bilibili.com/519310475",
+    "creatorName": "墨林童话屋",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 66,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 60,
+      "recency": 98.8,
+      "observedPerformance": 60.5
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 3,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 17247,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 469,
+      "level": 5,
+      "officialVerified": false,
+      "officialTitle": null,
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117655478475715",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117655478475715",
+        "title": "从夯到拉锐评原神低命主C强度",
+        "publishedAt": "2026-11-22T03:00:00.000Z",
+        "durationSec": 643,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 17247,
+        "danmakuCount": 651,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117655478475715",
+    "topEvidenceVideoTitle": "从夯到拉锐评原神低命主C强度",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117655478475715",
+    "followerCount": 469,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 60,
+    "scoreRecency": 98.8,
+    "scoreObservedPerformance": 60.5,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "1486746",
+    "creatorUrl": "https://space.bilibili.com/1486746",
+    "creatorName": "饮月妖怪君",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 62,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 40,
+      "recency": 97.9,
+      "observedPerformance": 68.5
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 2,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 62590,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 1956,
+      "level": 4,
+      "officialVerified": false,
+      "officialTitle": null,
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117653431716847",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117653431716847",
+        "title": "原神的这张名片其实也是灯下黑？",
+        "publishedAt": "2026-11-21T08:19:31.000Z",
+        "durationSec": 65,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 62590,
+        "danmakuCount": 2,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117653431716847",
+    "topEvidenceVideoTitle": "原神的这张名片其实也是灯下黑？",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117653431716847",
+    "followerCount": 1956,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 40,
+    "scoreRecency": 97.9,
+    "scoreObservedPerformance": 68.5,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "3493086340581999",
+    "creatorUrl": "https://space.bilibili.com/3493086340581999",
+    "creatorName": "绝云丘丘",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 62,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 40,
+      "recency": 95.8,
+      "observedPerformance": 72.5
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 2,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 118432,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 554540,
+      "level": 6,
+      "officialVerified": true,
+      "officialTitle": "bilibili 知名游戏UP主",
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117640865519199",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117640865519199",
+        "title": "【原神】备战冰神！最后一波原石！7.3冰神上线前能得多少抽？后续卡池原石规划，7.2下半卡池月结晶纳塔混池抽取建议,",
+        "publishedAt": "2026-11-19T09:00:00.000Z",
+        "durationSec": 196,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 118432,
+        "danmakuCount": 199,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117640865519199",
+    "topEvidenceVideoTitle": "【原神】备战冰神！最后一波原石！7.3冰神上线前能得多少抽？后续卡池原石规划，7.2下半卡池月结晶纳塔混池抽取建议,",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117640865519199",
+    "followerCount": 554540,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 40,
+    "scoreRecency": 95.8,
+    "scoreObservedPerformance": 72.5,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "653768",
+    "creatorUrl": "https://space.bilibili.com/653768",
+    "creatorName": "赫箩的苹果",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 61,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 40,
+      "recency": 99.2,
+      "observedPerformance": 64.3
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 2,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 31543,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 1256509,
+      "level": 6,
+      "officialVerified": true,
+      "officialTitle": "bilibili 知名游戏UP主",
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117655428144105",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117655428144105",
+        "title": "【原神】兹白 莉奈娅复刻养成攻略！月结晶如何补金性价比最高？",
+        "publishedAt": "2026-11-22T13:06:20.000Z",
+        "durationSec": 654,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 31543,
+        "danmakuCount": 17,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117655428144105",
+    "topEvidenceVideoTitle": "【原神】兹白 莉奈娅复刻养成攻略！月结晶如何补金性价比最高？",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117655428144105",
+    "followerCount": 1256509,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 40,
+    "scoreRecency": 99.2,
+    "scoreObservedPerformance": 64.3,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "323546336",
+    "creatorUrl": "https://space.bilibili.com/323546336",
+    "creatorName": "不是橘某人-Carol",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 61,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 40,
+      "recency": 99.4,
+      "observedPerformance": 59.5
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 2,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 14619,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 130,
+      "level": 6,
+      "officialVerified": false,
+      "officialTitle": null,
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117661367404816",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117661367404816",
+        "title": "【原神】十盒半价的茶叶莱欧喝了两年多终于喝完了",
+        "publishedAt": "2026-11-22T17:54:52.000Z",
+        "durationSec": 274,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 14619,
+        "danmakuCount": 5,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117661367404816",
+    "topEvidenceVideoTitle": "【原神】十盒半价的茶叶莱欧喝了两年多终于喝完了",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117661367404816",
+    "followerCount": 130,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 40,
+    "scoreRecency": 99.4,
+    "scoreObservedPerformance": 59.5,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "35859432",
+    "creatorUrl": "https://space.bilibili.com/35859432",
+    "creatorName": "Mr墨枫",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 60,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 40,
+      "recency": 97.7,
+      "observedPerformance": 59.5
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 2,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 14612,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 3781,
+      "level": 6,
+      "officialVerified": false,
+      "officialTitle": null,
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117651636489188",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117651636489188",
+        "title": "盘点原神角色外号！那些抽象又好笑的外号是怎么来的？（一）",
+        "publishedAt": "2026-11-21T03:30:00.000Z",
+        "durationSec": 218,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 14612,
+        "danmakuCount": 88,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117651636489188",
+    "topEvidenceVideoTitle": "盘点原神角色外号！那些抽象又好笑的外号是怎么来的？（一）",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117651636489188",
+    "followerCount": 3781,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 40,
+    "scoreRecency": 97.7,
+    "scoreObservedPerformance": 59.5,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "3493103866481259",
+    "creatorUrl": "https://space.bilibili.com/3493103866481259",
+    "creatorName": "羽化哲",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 59,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 40,
+      "recency": 98.7,
+      "observedPerformance": 48.6
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 2,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 2517,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 6269,
+      "level": 5,
+      "officialVerified": false,
+      "officialTitle": null,
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117656468330507",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117656468330507",
+        "title": "【必修课一】原神全部公式计算与讲解汇总！助力快速了解传统反应与星月反应的区别！助力各位旅行者，掌握算法知识，更加了解原神的伤害逻辑！截止到原神7.2版本！",
+        "publishedAt": "2026-11-22T01:00:00.000Z",
+        "durationSec": 741,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 2517,
+        "danmakuCount": 1,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117656468330507",
+    "topEvidenceVideoTitle": "【必修课一】原神全部公式计算与讲解汇总！助力快速了解传统反应与星月反应的区别！助力各位旅行者，掌握算法知识，更加了解原神的伤害逻辑！截止到原神7.2版本！",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117656468330507",
+    "followerCount": 6269,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 40,
+    "scoreRecency": 98.7,
+    "scoreObservedPerformance": 48.6,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "574115689",
+    "creatorUrl": "https://space.bilibili.com/574115689",
+    "creatorName": "游戏大猪猪",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 58,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 20,
+      "recency": 99.1,
+      "observedPerformance": 73.4
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 1,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 136865,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 2415618,
+      "level": 6,
+      "officialVerified": true,
+      "officialTitle": "bilibili 知名游戏UP主",
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117659840681547",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117659840681547",
+        "title": "【原神】12月大事件~免费五星命座！再白嫖120抽！7.3前瞻整大活！7.3卡池！最强星角色冰神女皇+达妮卡详解！7.3能拿多少原石？冰神上线前能存多少抽？诺伊",
+        "publishedAt": "2026-11-22T11:28:04.000Z",
+        "durationSec": 141,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 136865,
+        "danmakuCount": 409,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117659840681547",
+    "topEvidenceVideoTitle": "【原神】12月大事件~免费五星命座！再白嫖120抽！7.3前瞻整大活！7.3卡池！最强星角色冰神女皇+达妮卡详解！7.3能拿多少原石？冰神上线前能存多少抽？诺伊",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117659840681547",
+    "followerCount": 2415618,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 20,
+    "scoreRecency": 99.1,
+    "scoreObservedPerformance": 73.4,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "487618793",
+    "creatorUrl": "https://space.bilibili.com/487618793",
+    "creatorName": "凉夏喵",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 57,
+    "scoreConfidence": "medium",
+    "scoreComponents": {
+      "keywordRelevance": 55.7,
+      "evidenceConsistency": 20,
+      "recency": 93.4,
+      "observedPerformance": 72.9
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 2,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 1,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 127739,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "2 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 303147,
+      "level": 6,
+      "officialVerified": true,
+      "officialTitle": "bilibili 知名游戏UP主",
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117648297826577",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117648297826577",
+        "title": "【原神】四星陪跑质量如何？3金兹白DPS如何？先入兹白还是莉奈娅？7.2下半卡池以及四星角色 武器抽卡建议简评！",
+        "publishedAt": "2026-11-20T10:36:35.000Z",
+        "durationSec": 482,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 104010,
+        "danmakuCount": 922,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      },
+      {
+        "videoId": "av117609441794954",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117609441794954",
+        "title": "【星穹铁道】加强后景元强度如何？景元真站起来了？景元加强后角色攻略 史诗级加强30段神君高额输出  技能机制 光锥 遗器 配队 星魂！",
+        "publishedAt": "2026-11-13T13:56:01.000Z",
+        "durationSec": 570,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": false,
+        "observedViews": 151467,
+        "danmakuCount": 266,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117648297826577, https://www.bilibili.com/video/av117609441794954",
+    "topEvidenceVideoTitle": "【原神】四星陪跑质量如何？3金兹白DPS如何？先入兹白还是莉奈娅？7.2下半卡池以及四星角色 武器抽卡建议简评！",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117648297826577",
+    "followerCount": 303147,
+    "scoreKeywordRelevance": 55.7,
+    "scoreEvidenceConsistency": 20,
+    "scoreRecency": 93.4,
+    "scoreObservedPerformance": 72.9,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "3706930820287080",
+    "creatorUrl": "https://space.bilibili.com/3706930820287080",
+    "creatorName": "赛诺已经T0了",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 57,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 20,
+      "recency": 99.8,
+      "observedPerformance": 65.9
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 1,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 40882,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 105121,
+      "level": 6,
+      "officialVerified": true,
+      "officialTitle": "bilibili 知名游戏UP主",
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117663095462291",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117663095462291",
+        "title": "【T0小剧场】原神太上皇の陨灭",
+        "publishedAt": "2026-11-23T01:15:17.000Z",
+        "durationSec": 387,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 40882,
+        "danmakuCount": 179,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117663095462291",
+    "topEvidenceVideoTitle": "【T0小剧场】原神太上皇の陨灭",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117663095462291",
+    "followerCount": 105121,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 20,
+    "scoreRecency": 99.8,
+    "scoreObservedPerformance": 65.9,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "1438375628",
+    "creatorUrl": "https://space.bilibili.com/1438375628",
+    "creatorName": "粥粥的终极理解",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 56,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 20,
+      "recency": 98.8,
+      "observedPerformance": 64
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 1,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 30026,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 576852,
+      "level": 6,
+      "officialVerified": true,
+      "officialTitle": "bilibili 知名游戏UP主",
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117648180446527",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117648180446527",
+        "title": "【原神】兹白莉奈娅复刻攻略！如何补金？",
+        "publishedAt": "2026-11-22T03:00:00.000Z",
+        "durationSec": 446,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 30026,
+        "danmakuCount": 23,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117648180446527",
+    "topEvidenceVideoTitle": "【原神】兹白莉奈娅复刻攻略！如何补金？",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117648180446527",
+    "followerCount": 576852,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 20,
+    "scoreRecency": 98.8,
+    "scoreObservedPerformance": 64,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "36784916",
+    "creatorUrl": "https://space.bilibili.com/36784916",
+    "creatorName": "新手玩家85",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 55,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 20,
+      "recency": 98.1,
+      "observedPerformance": 55.4
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 1,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 7528,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 190073,
+      "level": 6,
+      "officialVerified": true,
+      "officialTitle": "bilibili 知名游戏UP主",
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117654589343147",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117654589343147",
+        "title": "用DLSS5看原神过场动画",
+        "publishedAt": "2026-11-21T13:16:03.000Z",
+        "durationSec": 6235,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 7528,
+        "danmakuCount": 14,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117654589343147",
+    "topEvidenceVideoTitle": "用DLSS5看原神过场动画",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117654589343147",
+    "followerCount": 190073,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 20,
+    "scoreRecency": 98.1,
+    "scoreObservedPerformance": 55.4,
+    "huahuoStatus": "not_requested"
+  },
+  {
+    "schemaVersion": "1.0",
+    "platform": "bilibili",
+    "creatorId": "14959058",
+    "creatorUrl": "https://space.bilibili.com/14959058",
+    "creatorName": "小柏林_",
+    "matchedKeywords": [
+      "原神"
+    ],
+    "topicFitScore": 52,
+    "scoreConfidence": "low",
+    "scoreComponents": {
+      "keywordRelevance": 54.3,
+      "evidenceConsistency": 0,
+      "recency": 98.1,
+      "observedPerformance": 68.4
+    },
+    "missingScoreComponents": [],
+    "topicalEvidenceCount": 1,
+    "keywordCoverage": 0.5,
+    "relevantVideoCountSampled": 0,
+    "sampledVideoCount": 5,
+    "sampleStatistics": {
+      "observedMedianViews": 61681,
+      "viewsSource": "bilibili/app/fetch_search_by_type (matching search results only)",
+      "sampleWindowDescription": "1 matching public video search result(s), not all account videos; 5 most recent upload(s) checked for topic consistency"
+    },
+    "creatorProfile": {
+      "followerCount": 20781,
+      "level": 6,
+      "officialVerified": false,
+      "officialTitle": null,
+      "source": "bilibili/app/fetch_user_info",
+      "observedAt": "2026-11-23T06:09:59.793Z"
+    },
+    "evidenceVideos": [
+      {
+        "videoId": "av117654387955857",
+        "videoIdType": "aid",
+        "videoUrl": "https://www.bilibili.com/video/av117654387955857",
+        "title": "老番茄3年没玩原神回归发现变成射击游戏惊呆了 至冬旅行者掏出步枪还能滑铲：发枪了 时代变了！",
+        "publishedAt": "2026-11-21T12:25:23.000Z",
+        "durationSec": 271,
+        "matchedKeywords": [
+          "原神"
+        ],
+        "keywordInTitle": true,
+        "observedViews": 61681,
+        "danmakuCount": 13,
+        "sourceEndpoint": "bilibili/app/fetch_search_by_type"
+      }
+    ],
+    "huahuo": {
+      "status": "not_requested",
+      "verifiedCreatorId": null,
+      "quotedRatesCny": null,
+      "observedAt": null
+    },
+    "observedAt": "2026-11-23T06:09:59.793Z",
+    "missingFields": [
+      "verifiedAudienceComposition"
+    ],
+    "sourceCount": 3,
+    "matchedKeywordsCsv": "原神",
+    "evidenceVideoUrlsCsv": "https://www.bilibili.com/video/av117654387955857",
+    "topEvidenceVideoTitle": "老番茄3年没玩原神回归发现变成射击游戏惊呆了 至冬旅行者掏出步枪还能滑铲：发枪了 时代变了！",
+    "topEvidenceVideoUrl": "https://www.bilibili.com/video/av117654387955857",
+    "followerCount": 20781,
+    "scoreKeywordRelevance": 54.3,
+    "scoreEvidenceConsistency": 0,
+    "scoreRecency": 98.1,
+    "scoreObservedPerformance": 68.4,
+    "huahuoStatus": "not_requested"
+  }
+]
